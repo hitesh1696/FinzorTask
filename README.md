@@ -13,3 +13,6 @@
 - Run php artisan db:seed.
 - Run npm install && npm run dev.
 - Run php artisan serve
+- Login using credentials
+    username: developer
+    password: Test@Password123#
