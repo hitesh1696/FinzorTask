@@ -20,7 +20,7 @@ class LoanDetailRepository
     {
         return LoanDetail::max('last_payment_date');
     }
-
+    
     public function getAllLoans()
     {
         return LoanDetail::all();
